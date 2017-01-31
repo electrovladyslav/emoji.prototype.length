@@ -30,7 +30,8 @@ p {
 
 pre {
   margin-bottom: 30px;
-  margin-left: 30px;
+  /* margin-left: 30px; */
   padding: 30px 50px;
+  overflow-y: auto;
   background-color: #f8f8f8;
 }
