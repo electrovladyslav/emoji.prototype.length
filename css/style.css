@@ -35,3 +35,13 @@ pre {
   overflow-y: auto;
   background-color: #f8f8f8;
 }
+
+code {
+  padding: 2px 4px;
+  white-space: nowrap;
+  color: #d85f4b;
+  background-color: #f8f8f8;
+  border: 1px solid darkgray;
+  border-radius: 3px;
+  font-size: 15px;
+}
