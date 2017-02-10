@@ -5,6 +5,5 @@
 ---
 
 * Автор статьи: Стефан Джудис [Twitter](https://twitter.com/stefanjudis), [GitHub](https://github.com/stefanjudis).
-* Авторы перевода:  ..+ Владислав Ермолин [GitHub](https://github.com/electrovladyslav), [VK](https://vk.com/feed);
-                    ..+ Константин Кожухов [GitHub](https://github.com/k2a-GitHub).
-
+* Автор перевод: Владислав Ермолин [GitHub](https://github.com/electrovladyslav), [VK](https://vk.com/feed);
+                    
